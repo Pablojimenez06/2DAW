@@ -43,4 +43,5 @@ function recuperarDatosyCalacular(){
 const btnCalcular = document.querySelector("#btnCalcular");
 
 //2. Añadimos funcionalidad al botón
+
 btnCalcular.addEventListener("click" , recuperarDatosyCalacular);
